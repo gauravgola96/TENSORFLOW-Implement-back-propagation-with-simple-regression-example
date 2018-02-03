@@ -1,0 +1,11 @@
+Implementing Back Propagation on Simple regression example With TENSORFLOW
+
+Simple regression algorithm . Taken sample random numbers
+from a normal, with mean 1 and standard deviation 0.1. Then run the numbers
+through one operation, which will be to multiply them by a variable, A. From this, the loss
+function will be the L2 norm between the output and the target, which will always be the value
+10. I have used the standard gradient descent algorithm for optimization 
+The final step is to loop through our training algorithm and tell TensorFlow to train
+many times.
+
+
